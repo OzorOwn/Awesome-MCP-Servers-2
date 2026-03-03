@@ -421,6 +421,7 @@ Payments, market data, and finance tools.
 - CoinMarket — https://github.com/anjor/coinmarket-mcp-server
 - Chargebee (⭐) — https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol
 - defi-mcp (DeFi & crypto primitives — real-time token prices, wallet balances, gas prices, and DEX swap quotes across 7 chains) — https://github.com/OzorOwn/defi-mcp
+- DeFi MCP (token prices, wallet balances, gas tracking, DEX quotes for 20+ blockchains) — https://github.com/OzorOwn/defi-mcp
 - DexPaprika (⭐) — https://github.com/donbagger/dexpaprika-mcp-server
 - Mercado Pago — https://mcp.mercadopago.com/
 - PayPal (⭐) — https://github.com/paypal/agent-toolkit
