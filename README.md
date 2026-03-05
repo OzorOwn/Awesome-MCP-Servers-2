@@ -517,6 +517,7 @@ Single MCP endpoints that expose many integrations.
 - Plugged.in — https://github.com/VeriTeknik/pluggedin-mcp-proxy
 - MCP Aggregator / Combine — https://github.com/nazar256/combine-mcp
 - Magg — https://github.com/sitbon/magg
+- Frostbyte MCP — https://github.com/OzorOwn/frostbyte-mcp — One API key for 40+ developer APIs (geolocation, crypto prices, screenshots, DNS, web scraping, code execution, PDF generation). Works with Claude Desktop, Cursor, Windsurf.
 
 ---
 
